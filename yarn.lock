@@ -3409,6 +3409,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"locate-character@npm:^2.0.5":
+  version: 2.0.5
+  resolution: "locate-character@npm:2.0.5"
+  checksum: dbc4c62bb98ba95626d5533c6d45d480b2536bb500d1453efdd19d0797e75ba92abf8d0432966990a1567a3b591b0fa6067f0ce93808cbf8b55beedd7bd28a78
+  languageName: node
+  linkType: hard
+
 "lodash.debounce@npm:^4.0.8":
   version: 4.0.8
   resolution: "lodash.debounce@npm:4.0.8"
@@ -4738,6 +4745,7 @@ __metadata:
     "@rollup/plugin-json": ^4.1.0
     "@rollup/plugin-node-resolve": ^13.3.0
     "@rollup/plugin-replace": ^4.0.0
+    locate-character: ^2.0.5
     rollup: ^2.78.1
     rollup-plugin-clear: ^2.0.7
     rollup-plugin-filesize: ^9.1.2
